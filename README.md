@@ -1,4 +1,4 @@
 # demo
 This is my basics of Git repository.
 <br>
-author-aastha dixit
+author-aastha (lnct)
