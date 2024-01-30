@@ -1,3 +1,4 @@
 # demo
-This is my basics of Git repository
+This is my basics of Git repository.
+<br>
 author-aastha dixit
